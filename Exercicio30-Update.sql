@@ -1,0 +1,1 @@
+﻿UPDATE alunos SET nome = NULL WHERE nome LIKE '%Goes'
