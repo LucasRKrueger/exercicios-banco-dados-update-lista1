@@ -1,0 +1,1 @@
+﻿UPDATE pokemons SET nome = REPLACE(nome, 'R', 'C') WHERE nome LIKE 'R%'  SELECT nome FROM pokemons WHERE nome LIke 'C%' ORDER BY nome;
