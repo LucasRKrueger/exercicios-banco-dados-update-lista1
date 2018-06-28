@@ -1,0 +1,1 @@
+﻿UPDATE alunos SET cor_preferida = 'Roxo', nick = 'Roxolandia' WHERE cor_preferida = 'roxo' OR cor_preferida = 'coral'
